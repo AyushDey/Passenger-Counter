@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: rgba(255, 255, 255, 0.438);
+    
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: wheat;
+}
+h3 {
+    color: white;
+}
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 100px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: rgb(49, 114, 23);
+    font-size: x-large;
+}
+
+#save-btn {
+    background: rgb(230, 236, 230);
+    color: black;
+}
+#decrement-btn {
+    background: rgb(97, 34, 26);
+    font-size: x-large;
+}
+p {
+    color: white;
+}
+
+#container {
+    background: rgba(128, 128, 128, 0.192);
+    border: 1px solid white;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+}
