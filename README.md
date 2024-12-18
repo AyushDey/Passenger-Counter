@@ -1,4 +1,5 @@
 # Simple Counter Web Application
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9114850a-26eb-4163-a271-cea514056ac2/deploy-status)](https://app.netlify.com/sites/people-counterbyayush/deploys)
 
 This project is a lightweight web application that provides a user-friendly interface for counting and saving numerical values. It allows users to increment, decrement, and save count values, making it ideal for various tracking purposes.
@@ -6,6 +7,7 @@ This project is a lightweight web application that provides a user-friendly inte
 The application is built using vanilla JavaScript and HTML, offering a straightforward and efficient solution for basic counting needs. It features a clean interface where users can easily manipulate the count, save multiple entries, and view a running total of all saved values.
 
 Key features of this counter application include:
+
 - Increment and decrement functionality with a minimum count of zero
 - Ability to save multiple count entries
 - Display of previous entries
@@ -27,13 +29,17 @@ The repository has a simple structure with three main files:
 To use this application, follow these steps:
 
 1. Clone the repository to your local machine:
+
    ```
    git clone <repository-url>
    ```
+
 2. Navigate to the project directory:
+
    ```
    cd <project-directory>
    ```
+
 3. Open the `index.html` file in a web browser.
 
 No additional installation or setup is required as this is a client-side application.
